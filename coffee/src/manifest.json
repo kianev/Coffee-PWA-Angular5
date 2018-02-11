@@ -1,0 +1,17 @@
+{
+  "name": "Coffee Tasting App",
+  "start_url": "/",
+  "orientation": "any",
+  "scope": "/",
+  "display": "standalone",
+  "short_name": "Coffee App",
+  "theme-color": "#4051B3",
+  "background-color": "white",
+  "icons": [
+    {
+      "src": "icons/coffee-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+mat-card {
+  margin: 20px;
+}
+
+mat-input-container, mat-select {
+  width: 100%;
+}
+
+mat-card-title {
+  font-size: larger;
+}
+
+mat-slider {
+  width: 100%;
+}
+
+mat-card button {
+  display: inline-block;
+  width: 49%;
+}
